@@ -1,7 +1,7 @@
 # Godot Input Remapping
 For Godot 4.4 (4.2+ compatible)
 
-This plugin has options menus that aim to be easy to customize and persist settings in a user's config file.
+This plugin has an input remapping menu that aims to be easy to customize and persists settings in a user's config file.
 
 [Example on itch.io](https://maaack.itch.io/godot-game-template)  
 _Example is of [Maaack's Game Template](https://github.com/Maaack/Godot-Game-Template), which includes additional features._
@@ -19,13 +19,12 @@ _Example is of [Maaack's Game Template](https://github.com/Maaack/Godot-Game-Tem
 ![Key Rebinding](/addons/maaacks_input_remapping/media/screenshot-6-input-list-3.png)  
 ![Key Rebinding Icons](/addons/maaacks_input_remapping/media/screenshot-6-input-list-1.png)  
 ![Key Rebinding Themed](/addons/maaacks_input_remapping/media/screenshot-6-input-list-8.png)  
-![Audio Controls](/addons/maaacks_input_remapping/media/screenshot-6-audio-options-2.png)  
-![Video Controls](/addons/maaacks_input_remapping/media/screenshot-6-video-options-5.png)  
+![Key Rebinding Input Tree](/addons/maaacks_input_remapping/media/screenshot-6-input-tree-1.png)  
 [More Screenshots](/addons/maaacks_input_remapping/docs/Screenshots.md)  
 
 ## Objective
 
-Setup options menus and accessibility features in about 15 minutes.
+Setup an input remapping menu in about 5 minutes.
 
 This addon plugs into an existing project. It is game agnostic (2D or 3D) and can work with multiple target resolutions, up to 4k and down to 640x360. It's meant to cover the needs for a typical game jam, while remaining scalable and extensible enough to support commercial games.
 
