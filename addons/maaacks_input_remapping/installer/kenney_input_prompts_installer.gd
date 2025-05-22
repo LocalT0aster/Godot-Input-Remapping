@@ -225,7 +225,7 @@ func _delete_extras():
 	EditorInterface.get_resource_filesystem().scan()
 
 func _configure_icons():
-	var input_options_menu_path := copy_dir_path + "scenes/menus/options_menu/input/input_options_menu.tscn"
+	var input_options_menu_path := copy_dir_path + "scenes/input_remapping/input_options_menu.tscn"
 	var input_options_menu := FileAccess.get_file_as_string(input_options_menu_path)
 	var regex := RegEx.new()
 	regex.compile(REGEX_PREFIX + """\\[node""")
