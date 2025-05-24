@@ -17,10 +17,9 @@ _Example is of [Maaack's Game Template](https://github.com/Maaack/Godot-Game-Tem
 #### Screenshots
 
 ![Key Rebinding](/addons/maaacks_input_remapping/media/screenshot-6-input-list-3.png)  
+![Key Rebinding Small Icons](/addons/maaacks_input_remapping/media/screenshot-6-input-list-2.png)  
 ![Key Rebinding Icons](/addons/maaacks_input_remapping/media/screenshot-6-input-list-1.png)  
-![Key Rebinding Themed](/addons/maaacks_input_remapping/media/screenshot-6-input-list-8.png)  
-![Key Rebinding Input Tree](/addons/maaacks_input_remapping/media/screenshot-6-input-tree-1.png)  
-[More Screenshots](/addons/maaacks_input_remapping/docs/Screenshots.md)  
+![Key Rebinding Input Tree](/addons/maaacks_input_remapping/media/screenshot-6-input-tree-4.png)  
 
 ## Objective
 
