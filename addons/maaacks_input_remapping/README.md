@@ -52,7 +52,7 @@ Users that want additional features can try [Maaack's Game Template](https://git
 ### Godot Asset Library
 This package is available as a plugin, meaning it can be added to an existing project. 
 
-![Package Icon](/addons/maaacks_input_remapping/media/options-icon-black-transparent-256x256.png)  
+![Package Icon](/addons/maaacks_input_remapping/media/input_remapping-icon-black-transparent-256x256.png)  
 
 When editing an existing project:
 
