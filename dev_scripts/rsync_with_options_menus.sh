@@ -25,7 +25,7 @@ fi
 
 
 # Source and destination directors
-src_dir="$source/addons/maaacks_menus_template/"
+src_dir="$source/addons/maaacks_options_menus/"
 dest_dir="../addons/maaacks_input_remapping/"
 
 echo $src_dir
