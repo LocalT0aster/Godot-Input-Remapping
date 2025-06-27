@@ -12,7 +12,7 @@ _Example is of [Maaack's Game Template](https://github.com/Maaack/Godot-Game-Tem
 
 [![Quick Intro Video](https://img.youtube.com/vi/U9CB3vKINVw/hqdefault.jpg)](https://youtu.be/U9CB3vKINVw)  
 [![Installation Video](https://img.youtube.com/vi/-QWJnZ8bVdk/hqdefault.jpg)](https://youtu.be/-QWJnZ8bVdk)  
-[More Videos](/addons/maaacks_input_remapping/docs/Videos.md)
+[More Videos](/addons/maaacks_input_remapping/docs/Videos.md)  
 
 ### Screenshots
 
@@ -20,6 +20,7 @@ _Example is of [Maaack's Game Template](https://github.com/Maaack/Godot-Game-Tem
 ![Key Rebinding Small Icons](/addons/maaacks_input_remapping/media/screenshot-6-input-list-2.png)  
 ![Key Rebinding Icons](/addons/maaacks_input_remapping/media/screenshot-6-input-list-1.png)  
 ![Key Rebinding Input Tree](/addons/maaacks_input_remapping/media/screenshot-6-input-tree-4.png)  
+[More Screenshots](/addons/maaacks_input_remapping/docs/Screenshots.md)  
 
 ## Objective
 
