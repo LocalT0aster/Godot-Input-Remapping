@@ -33,8 +33,8 @@ find $src_dir -type d -empty -o -type f -ctime -10 -printf '%P\0' | rsync -av --
 
 
 # Define strings to replace
-finds=("options_menus" "Options Menus" "Options-Menus" "options-menus")
-replaces=("input_remapping" "Input Remapping" "Input-Remapping" "input-remapping")
+finds=("options_menus" "Options Menus" "OptionsMenus" "Options-Menus" "options-menus")
+replaces=("input_remapping" "Input Remapping" "InputRemapping" "Input-Remapping" "input-remapping")
 
 # Checks for strings and replaces them
 for ((i=0; i<${#finds[@]}; i++)); do
