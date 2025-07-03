@@ -1,5 +1,9 @@
 @tool
+class_name MaaacksInputRemappingPlugin
 extends EditorPlugin
+
+const APIClient = preload("res://addons/maaacks_input_remapping/utilities/api_client.gd")
+const DownloadAndExtract = preload("res://addons/maaacks_input_remapping/utilities/download_and_extract.gd")
 
 const PLUGIN_NAME = "Maaack's Input Remapping"
 const PROJECT_SETTINGS_PATH = "maaacks_input_remapping/"
