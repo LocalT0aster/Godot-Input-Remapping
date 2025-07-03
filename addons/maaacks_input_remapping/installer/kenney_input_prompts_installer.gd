@@ -7,7 +7,9 @@ signal canceled
 ## Sent when the installation process has completed.
 signal completed
 
-const RELATIVE_PATH_TO_CONFIGURE_SCENE = "scenes/input_remapping/input_options_menu.tscn"
+const DownloadAndExtract = MaaacksInputRemappingPlugin.DownloadAndExtract
+
+const RELATIVE_PATH_TO_CONFIGURE_SCENE = "scenes/menus/options_menu/input/input_options_menu.tscn"
 const REIMPORT_CHECK_DELAY : float = 0.5
 const OPEN_SCENE_DELAY : float = 0.5
 const REGEX_PREFIX = """\\[node name="InputIconMapper" parent="." index="0"\\][\\s\\S]*"""
